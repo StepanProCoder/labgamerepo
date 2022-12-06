@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/SDL2Test.dir/main.cpp.o -o SDL2Test  -L/usr/lib/x86_64-linux-gnu  -lSDL2 

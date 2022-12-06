@@ -1,0 +1,3 @@
+/home/stepan/Downloads/gamebase-main/build/CMakeFiles/SDL2Test.dir
+/home/stepan/Downloads/gamebase-main/build/CMakeFiles/edit_cache.dir
+/home/stepan/Downloads/gamebase-main/build/CMakeFiles/rebuild_cache.dir

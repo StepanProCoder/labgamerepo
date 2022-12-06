@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/stepan/Downloads/gamebase-main/build",
+  "command": "/usr/bin/g++  -I/usr/include/SDL2 -g -o CMakeFiles/SDL2Test.dir/main.cpp.o -c /home/stepan/Downloads/gamebase-main/main.cpp",
+  "file": "/home/stepan/Downloads/gamebase-main/main.cpp"
+}
+]
